@@ -1,0 +1,114 @@
+Got it 👍 — you’re asking for project links for each full-stack type so you can practice.
+Here’s a curated list of open-source sample projects / starter templates for all the stacks we discussed:
+
+🔥 JavaScript-based Stacks
+1. MERN
+
+🟢 Voting App: https://github.com/dockersamples/example-voting-app
+
+🟢 MERN eCommerce: https://github.com/basir/node-react-ecommerce
+
+🟢 MERN Social Media: https://github.com/ed-roh/mern-social-media
+
+Starter Boilerplate: https://github.com/mernjs/create-mern-app
+
+2. MEAN
+
+MEAN Stack Example App: https://github.com/linnovate/mean
+
+Angular + Node CRUD: https://github.com/cornflourblue/mean-stack-crud-example
+
+3. MEVN
+
+Vue + Node.js CRUD: https://github.com/tuandm/MEVN-boilerplate
+
+Simple Blog App: https://github.com/icesofty/mevn-crud
+
+4. PERN
+
+React + PostgreSQL Todo App: https://github.com/tomdohnal/pern-todo
+
+PERN Stack Boilerplate: https://github.com/AntonioErdeljac/pern-stack-tutorial
+
+5. JAMStack
+
+Next.js Blog Starter: https://github.com/vercel/next.js/tree/canary/examples/blog-starter
+
+Gatsby + CMS Starter: https://github.com/gatsbyjs/gatsby-starter-blog
+
+☕ Java-based Stacks
+6. Spring Boot + React / Angular
+
+Spring Boot + React CRUD: https://github.com/RameshMF/springboot-react-fullstack
+
+Spring Boot + Angular Todo App: https://github.com/bezkoder/spring-boot-angular-15-crud
+
+Java + Spring Boot E-commerce: https://github.com/basit919/springboot-ecommerce
+
+7. J2EE Legacy
+
+JSP + Servlet Login App: https://github.com/varunon9/JSP-Servlet-Login-Example
+
+🐍 Python-based Stacks
+8. Django
+
+Django Polls App (Official Tutorial): https://github.com/django/django/tree/main/examples/polls
+
+Django + React E-commerce: https://github.com/justdjango/dj-react-ecommerce
+
+Django Blog Project: https://github.com/PrettyPrinted/django_blog
+
+9. Flask + React / Angular
+
+Flask + React Todo App: https://github.com/miguelgrinberg/flasky
+
+Flask CRUD Example: https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Flask_Blog
+
+🐘 PHP-based Stacks
+10. LAMP / WAMP
+
+PHP + MySQL CRUD App: https://github.com/jamesqquick/PHP-CRUD
+
+Simple Blog in PHP + MySQL: https://github.com/mazer95/simple-blog
+
+11. Laravel + Vue / React
+
+Laravel + Vue CRUD: https://github.com/cretueusebiu/laravel-vue-spa
+
+Laravel + React Starter: https://github.com/cretueusebiu/laravel-react-spa
+
+Laravel E-commerce: https://github.com/LaravelDaily/Laravel-Shop
+
+💻 .NET / Microsoft
+12. .NET Core + React / Angular
+
+ASP.NET Core + React Starter: https://github.com/aspnet/AspNetCore.Docs/tree/main/aspnetcore/spa/react
+
+ASP.NET Core + Angular Todo App: https://github.com/dotnet-presentations/blazor-workshop
+
+ASP.NET Core Clean Architecture: https://github.com/jasontaylordev/CleanArchitecture
+
+🟢 Ruby & Others
+13. Ruby on Rails
+
+Rails Blog Demo: https://github.com/RailsApps/rails-blog
+
+Rails + React Starter: https://github.com/renchap/rails-react-template
+
+14. Go / Rust Full-Stack
+
+Go + React CRUD Example: https://github.com/aditya43/golang-react-crud
+
+Rust + Yew (frontend) + Actix (backend): https://github.com/yewstack/yew
+
+📌 Tips
+
+Clone any repo:
+
+git clone <repo_link>
+cd <project_folder>
+
+
+Check README.md for setup instructions.
+
+Would you like me to shortlist beginner-friendly projects only (so you can start small before complex ones)?
